@@ -5,3 +5,4 @@ DerivedData/
 build/
 .build/
 Pods/
+GoogleService-Info.plist
